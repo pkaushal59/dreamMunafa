@@ -1,0 +1,71 @@
+.header
+{
+    background-color:black;
+    display:flex;
+   z-index: 100;
+   position: sticky;
+   align-items: center;
+   top:0;
+  justify-content: space-evenly;
+   
+}
+
+
+.header_logo
+{
+    width:100px;
+    margin: 18px 20px;
+    object-fit: contain;
+
+}
+.header_search
+{
+flex:1;
+display: flex;
+max-width: 70%;
+}
+.header_bar
+{
+   width: 100%;
+    border: none;
+}
+.header_icon
+{
+    padding: 5px;
+    height: 22px !important;
+    background-color: #cd904d;
+}
+.header_details{
+    display: flex;
+    flex:1;
+    margin:0 20px;
+    flex-direction: column;
+    margin-left:10px;
+    margin-right: 10px;
+ 
+    width: 100%;
+}
+.header_optionOne{
+color:white;
+font-size: 20px;
+}
+.header_optionTwo{
+    color:white;
+    font-size: 16px;
+    font-weight: 800;
+    }
+    .basket_icon
+    {
+        color:white
+    }
+
+    .header_right{
+        display: flex;
+       
+        justify-content: space-evenly;
+    }
+
+    .header_link{
+        text-decoration: none;
+    }
+    

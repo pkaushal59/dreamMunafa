@@ -1,0 +1,30 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+.checkoutimage {
+  width: 98%;
+  height: 400px;
+  margin-bottom: 20px;
+}
+/* .products__basket {
+  display: flex;
+  flex-direction: column;
+  height: max-content;
+  width: 100%;
+} */
+
+.checkout_left {
+  display: flex;
+  flex-direction: column;
+  height: max-content;
+  width: 80%;
+}
+.checkout__title {
+  border-bottom: 1px solid gray;
+
+  margin-right: 10px;
+  padding: 10px;
+}
