@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dreamMunafa/static/css/main.c676b3cf.chunk.css",
+    "main.js": "/dreamMunafa/static/js/main.f4e10061.chunk.js",
+    "main.js.map": "/dreamMunafa/static/js/main.f4e10061.chunk.js.map",
+    "runtime-main.js": "/dreamMunafa/static/js/runtime-main.a327bf8d.js",
+    "runtime-main.js.map": "/dreamMunafa/static/js/runtime-main.a327bf8d.js.map",
+    "static/js/2.9c5984ce.chunk.js": "/dreamMunafa/static/js/2.9c5984ce.chunk.js",
+    "static/js/2.9c5984ce.chunk.js.map": "/dreamMunafa/static/js/2.9c5984ce.chunk.js.map",
+    "static/js/3.463a36f7.chunk.js": "/dreamMunafa/static/js/3.463a36f7.chunk.js",
+    "static/js/3.463a36f7.chunk.js.map": "/dreamMunafa/static/js/3.463a36f7.chunk.js.map",
+    "index.html": "/dreamMunafa/index.html",
+    "static/css/main.c676b3cf.chunk.css.map": "/dreamMunafa/static/css/main.c676b3cf.chunk.css.map",
+    "static/js/2.9c5984ce.chunk.js.LICENSE.txt": "/dreamMunafa/static/js/2.9c5984ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a327bf8d.js",
+    "static/js/2.9c5984ce.chunk.js",
+    "static/css/main.c676b3cf.chunk.css",
+    "static/js/main.f4e10061.chunk.js"
+  ]
+}
